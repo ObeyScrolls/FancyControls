@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fancycontrols",
+  "name": "Fancy Controls",
+  "description": "Fancy switches, buttons, activators, etc.",
+  "version": "1.12.1-0.0.1",
+  "mcversion": "1.12.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ObeyScrolls"],
+  "credits": "ZigTheHedge's Evolved Controls and for the original idea.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
